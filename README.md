@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kaizen3031593
-- 👀 I’m interested in building software to solve my own personal problems 🧩.
+- 👋 Hi, I’m @kaizen3031593.
+- 👀 I’m interested in building software to solve my own personal problems 🧩 and to streamline everyone's problems 🌎.
 - 🌱 I’m currently an SDE at Amazon working on the AWS CDK team.
 - 💞️ I’m looking to collaborate all the time! 🎯 Hit me up!
-- 📫 You can reach me through my [website](https://kaizen3031593.github.io/)
+- 📫 You can reach me through my [website](https://kaizen3031593.github.io/).
 
 <!---
 kaizen3031593/kaizen3031593 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
