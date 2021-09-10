@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kaizen.
-- 👀 I’m interested in building software to solve my own personal problems 🧩 and to streamline everyone's problems 🌎.
-- 🌱 I’m currently an SDE at Amazon working on the AWS CDK team.
-- 💞️ I’m looking to collaborate all the time! 🎯 Hit me up!
+- 💞️ I love Ultimate Frisbee and Disc Golf.
+- 🌱 I’m currently an SDE at Amazon working on the [AWS CDK](https://github.com/aws/aws-cdk).
 - 📫 You can reach me through my [website](https://kaizen3031593.github.io/).
 
 <a target=_blank href="https://github.com/kaizen3031593">
