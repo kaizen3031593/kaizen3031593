@@ -3,6 +3,11 @@
 - 🌱 I’m currently an SDE at Amazon working on the [AWS CDK](https://github.com/aws/aws-cdk).
 - 📫 You can reach me through my [website](https://kaizen3031593.github.io/).
 
+```mermaid
+flowchart LR
+    A[Hong Kong, SAR]-->B[Taipei, Taiwan]-->C[Fairfax, VA]-->D[Shanghai, China]-->E[Williamstown, MA]-->F[New York City, NY]
+```
+
 <a target=_blank href="https://github.com/kaizen3031593">
   <img align="center" alt="Kaizen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaizen3031593&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
 </a>
