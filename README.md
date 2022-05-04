@@ -8,10 +8,10 @@ flowchart LR
     A[Hong Kong, SAR]-->B[Taipei, Taiwan]-->C[Fairfax, VA]-->D[Shanghai, China]-->E[Williamstown, MA]-->F[New York City, NY]
 ```
 
-<a target=_blank href="https://github.com/kaizen3031593">
+<a target=_blank href="https://github.com/kaizencc">
   <img align="center" alt="Kaizen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaizencc&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
 </a>
-<a target=_blank href="https://github.com/kaizen3031593">
+<a target=_blank href="https://github.com/kaizencc">
   <img align="center" alt="Kaizen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaizencc&theme=radical&layout=compact&hide=EJS&hide_border=true"/>
 </a>
 
