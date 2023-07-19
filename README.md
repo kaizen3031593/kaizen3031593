@@ -15,6 +15,9 @@ flowchart LR
   <img align="center" alt="Kaizen's Top Languages" src="https://github-readme-stats-gamma-steel.vercel.app/api/top-langs/?username=kaizencc&theme=radical&layout=compact&hide=EJS&hide_border=true"/>
 </a>
 
+<img align="center" src="https://cdk-stats.vercel.app/api?username=kaizencc"/>
+
+
 <!---
 kaizencc/kaizencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
