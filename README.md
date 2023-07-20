@@ -3,6 +3,9 @@
 - 🌱 I’m currently an SDE at Amazon working on the [AWS CDK](https://github.com/aws/aws-cdk).
 - 📫 You can reach me through my [website](https://kaizencc.github.io/).
 
+<img align="center" src="https://cdk-stats.vercel.app/api?username=kaizencc"/>
+
+
 ```mermaid
 flowchart LR
     A[Hong Kong, SAR]-->B[Taipei, Taiwan]-->C[Fairfax, VA]-->D[Shanghai, China]-->E[Williamstown, MA]-->F[New York City, NY]
@@ -14,9 +17,6 @@ flowchart LR
 <a target=_blank href="https://github.com/kaizencc">
   <img align="center" alt="Kaizen's Top Languages" src="https://github-readme-stats-gamma-steel.vercel.app/api/top-langs/?username=kaizencc&theme=radical&layout=compact&hide=EJS&hide_border=true"/>
 </a>
-
-<img align="center" src="https://cdk-stats.vercel.app/api?username=kaizencc"/>
-
 
 <!---
 kaizencc/kaizencc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
